@@ -32,6 +32,6 @@ $github_token = "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";
 
 // 替换为你要查询的仓库的所有者和名称
 $repository_owner = "hello-lisai";
-$repository_name = "snow";
+$repository_name = "img";
 
 get_repository_files($repository_owner, $repository_name, $github_token);
